@@ -1,0 +1,81 @@
+{
+  "welcome": "Willkommen",
+  "localeInformations": "Lokale Informationen",
+  "cityPassau": "Stadt Passau",
+  "health": "Gesundheit",
+  "about": "Über",
+  "services": "Services",
+  "contact": "Kontakt",
+  "footerpages": {
+    "imprint": "Impressum und Kontakt",
+    "studyprojekt": "Studienprojekt",
+    "germany": "Deutschland",
+    "thd": "Technische Hochschule Deggendorf",
+    "about": {
+      "heading": "Über Integreat",
+      "content": [
+        "Herzlich willkommen bei Integreat Passau! Unsere Webanwendung bietet eine Vielzahl von Ressourcen und Informationen rund um den Alltag und das Wohnen in der Stadt Passau.",
+        "Entdecken Sie nützliche Artikel zu verschiedenen Themen, von praktischen Tipps bis hin zu aktuellen Ereignissen. Unsere Mission ist es, Ihnen eine benutzerfreundliche Plattform zu bieten, um das Leben in Passau bestmöglich zu gestalten."
+      ]
+    },
+    "dataprotection": {
+      "heading": "Datenschutz",
+      "content": [
+        "Ihre Privatsphäre ist uns wichtig. Bei Integreat Passau legen wir großen Wert auf den Schutz Ihrer persönlichen Informationen.",
+        "Unsere Datenschutzrichtlinien sind darauf ausgerichtet, sicherzustellen, dass Ihre Daten sicher und vertraulich behandelt werden.",
+        "Wir erheben nur die notwendigen Informationen, um Ihnen eine optimale Nutzung unserer Dienste zu ermöglichen. Wenn Sie weitere Fragen zum Datenschutz haben, kontaktieren Sie uns bitte."
+      ]
+    },
+    "openSourceLicences": {
+      "heading": "Open-Source-Lizenzen",
+      "introduction": "Diese Anwendung verwendet mehrere Open-Source-Bibliotheken, um ihre Funktionalität bereitzustellen. Unten finden Sie eine Liste dieser Bibliotheken sowie ihrer jeweiligen Lizenzen:",
+      "library": "Bibliothek",
+      "license": "Lizenz"
+    }
+  },
+  "dailylife": "Alltag und Wohnen",
+  "news": "Nachrichten",
+  "noNews": "Aktuell gibt es keine Nachrichten.",
+  "events": "Veranstaltungen",
+  "event": "Veranstaltung",
+  "noEvents": "Aktuell gibt es keine Veranstaltungen.",
+  "profile": "Profil",
+  "loginSign": "Login / Registrieren",
+  "username": "Benutzername",
+  "password": "Passwort",
+  "register": "Registrieren",
+  "login": "Anmelden",
+  "registertLogin":"Bereits registriert? Anmelden",
+  "notRegistertRegister":"Noch nicht registriert? Registrieren",
+  "createnewquestion": "Neue Frage erstellen",
+  "title": "Titel",
+  "question": "Frage",
+  "answers": "Antworten",
+  "addAnswer": "Anwort hinzufügen",
+  "answeredBy": "Beantwortet von",
+  "publishedOn": "Erstellt am",
+  "questionBy": "Frage von",
+  "titleError": "Titel muss mindestens 10 Zeichen lang sein.",
+  "questionError": "Frage muss mindestens 20 Zeichen lang sein.",
+  "createQuestion": "Frage erstellen",
+  "loggedInAs": "Eingeloggt als",
+  "withRole": "mit der Rolle",
+  "pleaseLogIn": "Bitte einloggen, um die Seite zu sehen.",
+  "searchFriend": "Freunde suchen",
+  "logout": "Abmelden",
+  "lastEdited": "Zuletzt aktualisiert:",
+  "save": "Speichern",
+  "noArticleContent": "Artikelinhalt fehlt im JSON-Objekt.",
+  "newQuestion": "Neue Frage?",
+  "noQuestions": "Aktuell gibt es keine Fragen.",
+  "newEvent": "Neue Veranstaltung erstellen",
+  "createEvent": "Neue Veranstaltung erstellen",
+  "showLess":"Weniger anzeigen",
+  "showMore":"Mehr anzeigen",
+  "date":"Datum",
+  "time":"Zeit",
+  "eventContent":"Veranstaltungsinformationen",
+  "newNews": "Neue News erstellen",
+  "newsContent":"Nachrichtsinformationen",
+  "questionsOverview":"Fragenübersicht"
+}

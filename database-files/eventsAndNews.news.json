@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65aba6ffb82b8e859b947b82"
+  },
+  "title": "Passau - Die Dreiflüssestadt",
+  "content": "Erfahren Sie mehr über die einzigartige Lage von Passau, wo die drei Flüsse Donau, Inn und Ilz zusammenfließen. Die malerische Stadt beeindruckt mit historischer Architektur und einem Charme, der Besucher aus aller Welt anzieht.",
+  "createdAt": {
+    "$date": "2024-01-20T10:57:03.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba713b82b8e859b947b83"
+  },
+  "title": "Kulinarische Vielfalt in Passau",
+  "content": "Entdecken Sie die vielfältige kulinarische Szene Passaus mit traditionellen bayerischen Spezialitäten, internationalen Köstlichkeiten und gemütlichen Cafés. Ein Paradies für Feinschmecker!",
+  "createdAt": {
+    "$date": "2024-01-20T10:57:23.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba737b82b8e859b947b84"
+  },
+  "title": "Schwerer Unfall mit mehreren Autos: A8 bei Rohrdorf komplett gesperrt",
+  "content": "Großaufgebot auf der A8 bei Rohrdorf (Landkreis Rosenheim): Am Samstagvormittag ist es zu einem schweren Verkehrsunfall gekommen. Mehrere Autos sind laut Polizei beteiligt, die Autobahn ist Richtung Salzburg komplett gesperrt.",
+  "createdAt": {
+    "$date": "2024-01-20T10:57:59.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba751b82b8e859b947b85"
+  },
+  "title": "Unfall auf Kreisstraße bei Landau: Mehrere Menschen verletzt",
+  "content": "Mehrere Menschen wurden am Samstagvormittag bei Landau (Landkreis Dingolfing-Landau) auf der Kreisstraße DGF3 nahe des Pendlerparkplatzes bei einem Verkehrsunfall verletzt. Der Rettungsdienst ist laut Polizei vor Ort. Ersten Erkenntnissen der Polizei zufolge waren zwei Autos beteiligt. Der Unfall ereignete sich auf Höhe des Pendlerparkplatzes.",
+  "createdAt": {
+    "$date": "2024-01-20T10:58:25.560Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba77bb82b8e859b947b86"
+  },
+  "title": "Dachstuhl eines Mehrfamilienhauses in Adlkofen brannte – Feuerwehr im Einsatz",
+  "content": "Am Samstagvormittag war die Feuerwehr in Adlkofen (Landkreis Landshut) im Einsatz: Der Dachstuhl eines Mehrfamilienhauses brannte. Verletzte gibt es keine, wie die Polizei Vilsbiburg auf Nachfrage mitteilte. Es sei jedoch ein hoher Brandschaden entstanden.",
+  "createdAt": {
+    "$date": "2024-01-20T10:59:07.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba793b82b8e859b947b87"
+  },
+  "title": "Fasching im Landkreis Traunstein: Die Oidnmarkter Bochratz’n im Dschungelfieber",
+  "content": "Wenn die Oidnmarkta Bochratz’n ihre Finger im Spiel haben, ist etwas im Busch. Dieses Mal sogar wörtlich. Der umtriebige Faschingsverein meldet sich aus dem fernen Weltraum – das Motto des vergangenen Jahres – zurück und landet heuer mitten im wilden „Dschungelfieber“. In der angemieteten Halle in Dorfen wird am passenden Umbau des Faschingswagens gesägt, geschraubt, gebohrt und getüftelt.",
+  "createdAt": {
+    "$date": "2024-01-20T10:59:31.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba7b6b82b8e859b947b88"
+  },
+  "title": "Einkaufsparadies Passau",
+  "content": "Shoppen in Passau ist ein einzigartiges Erlebnis. Entdecken Sie charmante Boutiquen, traditionelle Handwerkskunst und lebendige Märkte. Die Stadt lädt zum Bummeln und Entdecken ein.",
+  "createdAt": {
+    "$date": "2024-01-20T11:00:06.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba7d4b82b8e859b947b89"
+  },
+  "title": "Passau's Charme im Winter",
+  "content": "Erleben Sie den zauberhaften Winter in Passau. Die Stadt, wo die Donau, Inn und Ilz zusammenfließen, bietet eine malerische Kulisse mit verschneiten Gassen, gemütlichen Weihnachtsmärkten und winterlichen Festlichkeiten.",
+  "createdAt": {
+    "$date": "2024-01-20T11:00:36.833Z"
+  }
+}]

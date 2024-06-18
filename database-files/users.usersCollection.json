@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65843f83ecab000304a3fa70"
+  },
+  "username": "max",
+  "password": "$2b$10$PWb45ZRrJbQ/KsnhhiRJ3Ob7yt3n.EajLBWaxFerZOeCGiFC1cojG",
+  "email": "max",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "65843f9becab000304a3fa71"
+  },
+  "username": "sami",
+  "password": "$2b$10$YeNJHPLmPSzfv6qtturCMO9xpYwo7AEv4tJp.u590AgBNJ0uk946y",
+  "email": "sami",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "65b540be1f5ac25859ceefa6"
+  },
+  "username": "admin",
+  "password": "$2b$10$D9ia3jud3Myzenc0zl80leBTxcLRCF21PT0HK8/PuLRm.3vn3qEgy",
+  "email": "admin@gmail.com",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "65b541011f5ac25859ceefa7"
+  },
+  "username": "user",
+  "password": "$2b$10$fqbs88jdBh24P0d69YpTpe89n5E1iGlVQnz/s5n5QZaUlTla.fA/u",
+  "email": "user@gmail.com",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "65b683e90bc2a2ab6520bc69"
+  },
+  "username": "muschl",
+  "password": "$2b$10$wkqBTFV0LnABIXwQaNI15uznNSL6MW1NAUw05/KW9lN2H9sWfj.SO",
+  "email": "maximilian-lukas.muschl@duschen.de",
+  "role": "user"
+}]

@@ -1,0 +1,81 @@
+{
+  "welcome": "Welcome",
+  "localeInformations": "Locale informations",
+  "cityPassau": "City Passau",
+  "health": "Health",
+  "about": "About",
+  "services": "Services",
+  "contact": "Contact2",
+  "footerpages": {
+    "imprint": "Imprint and contacts",
+    "studyprojekt": "Studyproject",
+    "germany": "Germany",
+    "thd": "Deggendorf Institute of Technology",
+    "dataprotection": {
+      "heading": "Data Protection",
+      "content": [
+        "Your privacy is important to us. At Integreat Passau, we prioritize the protection of your personal information.",
+        "Our data protection policies are designed to ensure that your data is handled securely and confidentially.",
+        "We only collect the necessary information to facilitate optimal use of our services. If you have further questions about data protection, please contact us."
+      ]
+    },
+    "about": {
+      "heading": "About Integreat",
+      "content": [
+        "Welcome to Integreat Passau! Our web application provides a variety of resources and information about daily life and living in the city of Passau.",
+        "Discover useful articles on various topics, from practical tips to current events. Our mission is to provide you with a user-friendly platform to enhance your life in Passau."
+      ]
+    },
+    "openSourceLicences": {
+      "heading": "Open-Source-Licences",
+      "introduction": "This application uses several open-source libraries to provide its functionality. Below is a list of these libraries along with their respective licenses:",
+      "library": "Library",
+      "license": "License"
+    }
+  },
+  "dailylife": "Dailylife",
+  "news": "News",
+  "noNews": "There are no news at this time.",
+  "events": "Events",
+  "event": "Event",
+  "noEvents": "There are no events at this time.",
+  "profile": "Profile",
+  "loginSign": "Login / Sign-up",
+  "username": "Username",
+  "password": "Password",
+  "register": "Sign up",
+  "login": "Login",
+  "registertLogin":"Already registered? Log in",
+  "notRegistertRegister":"Not registered yet? Register now",
+  "createnewquestion": "Create new question",
+  "title": "Title",
+  "question": "Question",
+  "answers": "Answers",
+  "addAnswer": "Add answer",
+  "answeredBy": "Answered by",
+  "publishedOn": "Published on",
+  "questionBy": "Question by",
+  "titleError": "Title must be at least 10 characters long.",
+  "questionError": "Question must be at least 20 characters long.",
+  "createQuestion": "Create Question",
+  "loggedInAs": "Logged in as",
+  "withRole": "with the role",
+  "pleaseLogIn": "Please log in to see this site",
+  "searchFriend": "Search friends",
+  "logout": "Logout",
+  "lastEdited": "Last edited:",
+  "save": "Save",
+  "noArticleContent": "No article content in the JSON-File.",
+  "newQuestion": "New Question?",
+  "noQuestions": "There are no questions at this time",
+  "newEvent": "Create new Event",
+  "createEvent": "Create new Event",
+  "showLess":"Show less",
+  "showMore":"Show more",
+  "date":"Date",
+  "time":"Time",
+  "eventContent":"Event content",
+  "newNews": "Create new news",
+  "newsContent":"News information",
+  "questionsOverview":"Questions overview"
+}

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65aba8acb82b8e859b947b8a"
+  },
+  "title": "Passauer Wochenmarkt",
+  "content": "Unseren Wochenmarkt finden Sie jeden Dienstag und Freitag im Klostergarten von 07.00 bis 12.30 Uhr und jeden Samstag von 07.00 bis 14.00 Uhr auf dem Domplatz.\n\nFalls der Markttag auf einen gesetzlichen Feiertag fällt, so findet er am vorangehenden Werktag statt.\n\nEs werden Lebensmittel (z.B. Backwaren, Fleisch- und Wurstwaren, Geflügel, Räucherfische, Eier, Käse, Feinkost, Obst und Gemüse), Blumen, Sträucher, Pflanzen und gelegentlich Haushaltsartikel angeboten.\n\nDie Verkaufsplätze werden vom Ordnungsamt der Stadt Passau zugeteilt.",
+  "date": "2024-01-20T07:00:00",
+  "createdAt": {
+    "$date": "2024-01-20T11:04:12.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba905b82b8e859b947b8b"
+  },
+  "title": "Öffentlicher biblischer Vortrag (Vilshofen an der Donau) - Tickets",
+  "content": "Jehovas Zeugen in Vilshofen laden Sie herzlich zu einem halbstündigen öffentlichen biblischen Vortrag ein. Das Thema lautet: Die wahre Religion stillt die Bedürfnisse der menschlichen Gesellschaft\n\nEs findet jeden Sonntag um 09:30 Uhr ein öffentlicher biblischer Vortrag statt.\n\nJeder Gottesdienst findet im Königreichsaal von Jehovas Zeugen in der Ortenburger Str. 60, 94474 Vilshofen a. d. Donau statt. Alternativ kann man auch online teilnehmen. Für weitere Informationen können Sie sich an folgende Telefonnummer wenden: 08549/630.",
+  "date": "2024-01-21T09:30:00",
+  "createdAt": {
+    "$date": "2024-01-20T11:05:41.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aba941b82b8e859b947b8c"
+  },
+  "title": "Gamskampler (Passau) - Tickets",
+  "content": "Die Bayern-2-Heimatsoundsieger GAMSKAMPLER (Hans mit Dampf, Hans im Glück, Hans vom Bier) kommen den weiten Weg aus Schnackslreith, um bei Euch zu spielen!\nVolksmusik mit Gwoit inklusive bayerischer Satiretexte, so nennt sich diese ohrwurmartige Musikrichtung. Ihre urbayerischen Texte werden ausgerechnet in der bayerischen Landeshauptstadt nur schwer verstanden. Das macht die drei Volkspunker nachdenklich. Darum machen sich Hans, Hans und Hans auf, ihre überlieferten Geschichten zu verbreiten, die sogenannten Schnackslreither Sommerhitz. Von der Plattlerprob, Schofscheren und Kaufhaustrachtlern über die wundersame Entschleunigung durch das Mofafahren, bis hin zum Rindsbesamer Rudi decken sie sämtliche Thematiken ab.\nHupfen, danzen und vui lachen garantiert!",
+  "date": "2024-01-20T20:00:00",
+  "createdAt": {
+    "$date": "2024-01-20T11:06:41.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65abaad6b82b8e859b947b8d"
+  },
+  "title": "Helmut A. Binser - Ha? (Freyung)",
+  "content": "Kabarettfans wissen: rote Schuhe, schwarzer Hut, - das ist der Binser Helmut. Und „Ha?“ heißt sein nagelneues Programm.\nThematisch dreht sich beim Binser alles um das Leben auf dem Land. Helmut Binser ist ein genauer Beobachter des Alltäglichen und bedient sich gerne realer Vorbilder, die er hin und wieder gnadenlos überzeichnet.",
+  "date": "2024-01-20T20:00:00",
+  "createdAt": {
+    "$date": "2024-01-20T11:13:26.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ababdeb82b8e859b947b8e"
+  },
+  "title": "Die 90´er Bootsparty 2024",
+  "content": "DJ Heinz geht mit seinem 90er Boot auf die allerletze große Fahrt! Zum letzten Mal hei´ßt es Leinen los und Ahoi ihr Partypeople. Es erwartet Euch der gleiche, geile Scheiss wie immer...",
+  "date": "2024-06-01T18:00:00",
+  "createdAt": {
+    "$date": "2024-01-20T11:17:50.117Z"
+  }
+}]

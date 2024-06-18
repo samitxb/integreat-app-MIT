@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "659bf0a9eb177bd216bebd3c"
+  },
+  "id": 2,
+  "title": "Rule of law",
+  "content": "<p class=\"mb-4\">Germany is a democratic constitutional state. The Basic Law guarantees human dignity, freedom and justice. There are laws to ensure that human rights are respected.</p>\n<p class=\"mb-4\">Political decisions are made by representatives of the people. The people's representatives are elected by the Germans in free elections.</p>\n<p class=\"mb-4\">The laws apply equally to all people in Germany. The state must abide by the law. All people living in Germany must also abide by German laws.</p>\n<p class='underline mb-2'>This means, for example:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n<li>If people believe that other people or the public administration are doing them wrong, they can turn to a court. These courts are independent. This means that the government cannot dictate to the courts how they should rule.</li>\n<li>State courts decide whether someone is punished. Punishments include fines, community service or imprisonment. There is no death penalty in Germany.</li>\n<li>The police have the task of ensuring that everyone can live in freedom and security.</li>\n<li>The practice of religion must not violate the law. Laws are always above religion.</li>\n</ul>\n<p class='underline mb-2'>This is not permitted in Germany: </p>\n<ul class=\"list-disc ml-6 mb-4\">\n<li>To incite hatred or violence.</li>\n<li>To fight the democratic system and its values.</li>\n</ul>\n<p class=\"mb-4\">These offenses can lead to a prison sentence. After serving their sentence, non-German nationals can, under certain circumstances, lose their right to stay and be deported.</p>\n<p class=\"mb-4\">After serving their sentence, non-German nationals can lose their right to stay and be deported under certain conditions.</p>",
+  "category": "Living in Germany",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659bfad4eb177bd216bebd3d"
+  },
+  "id": 7,
+  "title": "Holidays and opening hours",
+  "content": "<p class=\"mb-4\">In Germany, opening hours and public holidays are regulated by law for each federal state. In Bavaria, most large stores are usually open from Monday to Saturday from 08:00 to 20:00. The smaller stores in Memmingen usually close earlier in the evening. Sunday is a day of rest on which all stores are closed. Restaurants, cafés and some bakeries are nevertheless open from time to time.</p>\n<p class=\"mb-4\">Holidays and school vacations in Bavaria can be found <u><a href=\"https://www.schulferien.org/deutschland/feiertage/bayern/\">here</a></u>.</p>",
+  "category": "Living in Germany",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659bfadceb177bd216bebd3e"
+  },
+  "id": 6,
+  "title": "Freedom from violence",
+  "content": "<p class=\"mb-4\">Everyone has the right to a life free from violence. This means that all people have the right to life and physical integrity. This includes both the physical and psychological well-being of a person. This applies even in private settings.</p>\n<p class=\"mb-4\">This means, for example:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>Conflicts should be resolved without violence</li>\n  <li>Anyone needing help in danger or conflicts can call the police</li>\n  <li>All instructions from the police must be followed</li>\n  <li>Vigilantism is not allowed. If one's own rights are violated, a state court decides</li>\n  <li>The state must act non-violently. It may only use violence exceptionally when all other means are exhausted. There is no death penalty or corporal punishment; torture is prohibited</li>\n</ul>\n<p class=\"mb-4\">This is not allowed in Germany:</p>\n<ul class=\"list-disc ml-6 mb-4\">\n  <li>To physically abuse, injure, or kill another person. This also applies within the family, at school, and on the street</li>\n  <li>Participation in a brawl resulting in the death or serious physical injury of people</li>\n  <li>Blood feuds and honor killings</li>\n  <li>Violence against women and children, always and everywhere</li>\n  <li>Human trafficking, slavery, and forced prostitution</li>\n  <li>Female genital mutilation</li>\n</ul>\n",
+  "category": "Living in Germany",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659bfae1eb177bd216bebd3f"
+  },
+  "id": 3,
+  "title": "Equal rights for men and women",
+  "content": "<p class=\"mb-4\">Women and men have equal rights. This is reflected in laws and in daily life.</p>\n<p class=\"mb-4\">This means, for example:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>Girls and boys go to school together and receive the same education. They participate together in physical education.</li>\n  <li>Women are allowed to study or pursue a profession. All professions are open to women.</li>\n  <li>Women take on responsibilities in society, for instance, as police officers, doctors, teachers, or in offices and authorities. Their instructions must be followed.</li>\n  <li>Women decide themselves whether they want to work or not. They have control over the money they earn.</li>\n  <li>Women do not need permission from their husband, parents, or other family members to work, open a bank account, or enter contracts.</li>\n  <li>Women can dress as they wish.</li>\n  <li>Women decide themselves if, when, and whom they want to marry.</li>\n  <li>Mothers are particularly protected. They must not work six weeks before and eight weeks after giving birth. They cannot be dismissed because of their maternity.</li>\n  <li>Family tasks and roles are not predetermined.</li>\n  <li>Women participate in public life. They attend cultural, political, or sports events, restaurants, and bars.</li>\n  <li>Women can vote and be elected to political offices.</li>\n  <li>Women and men have equal rights in inheritance law. Daughters as well as sons.</li>\n  <li>Sexual touches, comments, or requests are only allowed if all parties involved consent. A \"stop\" or \"no\" must be respected.</li>\n</ul>\n<p class=\"mb-4\">This is not allowed in Germany:</p>\n<ul class=\"list-disc ml-6 mb-4\">\n  <li>Any form of violence against women, even within marriage.</li>\n  <li>No one should be sexually harassed.</li>\n  <li>Rape, even within marriage, is punishable.</li>\n  <li>No one should be forced to marry. Coercion into marriage through violence or threats is punishable.</li>\n</ul>\n",
+  "category": "Living in Germany",
+  "lastEdited": "18.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659bfae6eb177bd216bebd40"
+  },
+  "id": 5,
+  "title": "Children's rights",
+  "content": "<p class=\"mb-4\">Children and adolescents have rights. These rights are outlined in the United Nations Convention on the Rights of the Child. It applies in Germany to all children and adolescents under 18 years old. Besides, in Germany, there are many laws that particularly protect the lives, health, and rights of children. The protection of children always takes precedence.</p>\n<p class=\"mb-4\">This means, for example:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>All children have equal rights. Regardless of where they live, where they come from, their skin color, their parents' occupations, the language they speak, their religion, whether they are boys or girls, the culture they live in, whether they have a disability, or whether they are rich or poor.</li>\n  <li>Children have the right to a name, a birth certificate, citizenship, and a family. The state generally helps if children lack any of these.</li>\n  <li>Children should be able to live with their parents unless it puts them in danger. Parents can and must care for their children, protect their health and well-being, and support their development.</li>\n  <li>Children who have fled have the right to special protection and assistance.</li>\n  <li>Children must be protected so that they can grow up well.</li>\n  <li>Children must and are allowed to go to school. There is compulsory education. Parents must support their children's school attendance. Education in Germany is free.</li>\n  <li>Children are entitled to form their own opinions.</li>\n  <li>By the age of 14 at the latest, children can decide on their own whether they belong to a religion and which one.</li>\n  <li>Children should be able to develop well. Parents are responsible for this. If they need help, the state must assist, for example, by providing food, clothing, and housing.</li>\n  <li>Children whose parents are not married have the same rights as children living with married parents.</li>\n</ul>\n<p class=\"mb-4\">This is not allowed in Germany:</p>\n<ul class=\"list-disc ml-6 mb-4\">\n  <li>Children must not be neglected or abused.</li>\n  <li>Children must not be hit or physically or mentally abused in any way.</li>\n  <li>Children under the age of 13 must not be employed as workers. When they are older, they can only take on very limited work that does not affect their health and development.</li>\n  <li>Children must not be kidnapped or used as commodities for trade.</li>\n  <li>Performing sexual acts on children is prohibited.</li>\n</ul>\n",
+  "category": "Living in Germany",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659bfaeceb177bd216bebd41"
+  },
+  "id": 4,
+  "title": "Freedom of speech",
+  "content": "<p class=\"mb-4\">Everyone is allowed to form their own opinions, express them freely, and spread them. People can publicly voice their opinions. All media are also free, and everyone can gather information from them. When expressing their opinion freely, individuals must respect the protection of the personal honor or dignity of others.</p>\n<p class=\"mb-4\">This means, for example:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>Religion can be criticized.</li>\n  <li>Artistic works can provoke. No one can dictate to writers, musicians, visual artists how they should work.</li>\n  <li>Even the government and religions can be the subject of satire and critical art.</li>\n  <li>If someone feels defamed, insulted, defamed, or their personal honor or dignity is violated, they can contact the police or a court.</li>\n</ul>\n<p class=\"mb-4\">This is not allowed in Germany:</p>\n<ul class=\"list-disc ml-6 mb-4\">\n  <li>The use of symbols against the constitution and calls for the overthrow of democracy.</li>\n  <li>Offensive expressions of opinion that degrade other individuals.</li>\n  <li>Malicious gossip or defamation against other people.</li>\n  <li>To incite hatred and violence.</li>\n</ul>\n",
+  "category": "Living in Germany",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659bfaf1eb177bd216bebd42"
+  },
+  "id": 1,
+  "title": "Personal freedom",
+  "content": "<p class=\"mb-4\">All adult individuals have the right to decide for themselves about their own lives. Regardless of gender, age, with or without disabilities, regardless of skin color or religious affiliation.</p>\n<p class=\"mb-4\">All people are allowed to do what they want as long as they abide by the laws and do not restrict the freedom of others.</p>\n<ul class=\"list-disc ml-6 mb-8\">\n  <li>All people can decide what they want to wear.</li>\n  <li>All people can eat what they want and what tastes good to them.</li>\n  <li>Consumption of alcohol is permitted for adults. Consumption of alcohol is prohibited for children and adolescents.</li>\n  <li>Every woman and man can decide for themselves if and whom they want to marry.</li>\n  <li>Every woman and man can get a divorce.</li>\n  <li>Unmarried couples can live together and have children.</li>\n  <li>Individuals of different religions and beliefs can marry and have children.</li>\n  <li>Contraception is allowed for both genders. The decision of a person to use contraception must be respected.</li>\n  <li>Same-sex partnerships are accepted.</li>\n  <li>Everyone decides for themselves how and where they want to live. For non-Germans, this right may be limited until the recognition of an asylum application.</li>\n  <li>Sexual acts among adults may only occur with mutual consent. Any sexual act involving children is prohibited.</li>\n</ul>\n<p class=\"mb-2 text-2xl underline\">Important:</p>\n<p class=\"mb-8\">Your own freedom ends where it violates the freedom or human dignity of others or violates laws.</p>\n",
+  "category": "Living in Germany",
+  "lastEdited": "25.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659bfaf8eb177bd216bebd43"
+  },
+  "id": 9,
+  "title": "Smoking ban in public buildings, restaurants and workplaces",
+  "content": "<p class=\"\">Since August 1, 2010, smoking in public buildings and restaurants has been prohibited in Bavaria.</p>\n<p class=\"mb-4\">You can find information about the smoking ban <a href=\"https://www.stmgp.bayern.de/vorsorge/sucht/tabake-zigaretten/\">here</a>.</p>\n<p class=\"\">Smoking is also not permitted in all workplaces.</p>\n<p class=\"mb-4\">You can find information about smoke-free workplaces <u><a href=\"https://www.lgl.bayern.de/arbeitsschutz/rechtsgrundlagen/arbeitsmedizin/nichtraucherschutz_5arbstaettv.htm\">here</a></u>.</p>\n",
+  "category": "Living in Germany",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659bfafeeb177bd216bebd44"
+  },
+  "id": 8,
+  "title": "Religious practice in Passau",
+  "content": "<h2 class=\"text-xl font-bold mb-4\">Freedom of Religion</h2>\n<p class=\"mb-4\">Religion and faith are private matters in Germany. The state does not dictate to anyone whether or which god they should believe in. State and religion are separate.</p>\n<p class=\"mb-4\">This means, for example:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>All people are allowed to freely practice and choose their religion and belief.</li>\n  <li>All people have the freedom to not be religious and to express this. Those who do not believe in God can openly state this.</li>\n  <li>Individuals of different religions and beliefs are allowed to marry each other.</li>\n  <li>Marriage is legally recognized only through civil registration. Marriages exclusively performed within a religion are not legally binding in Germany.</li>\n</ul>\n<p class=\"mb-4\">This is not allowed in Germany:</p>\n<ul class=\"list-disc ml-6 mb-4\">\n  <li>Placing religious regulations or traditions above existing laws. For example, being simultaneously married to multiple women without legal approval, or slaughtering an animal without special permission.</li>\n  <li>Boys may only be circumcised if their well-being is not endangered.</li>\n</ul>\n<p class=\"mb-4\">Many people in Germany today advocate for dialogue between religions. The goal is peaceful coexistence among religious, faithful, and non-religious individuals. The state is committed to ideological neutrality. As long as the practice of a religion does not endanger democracy or the separation of state and religion, it is protected.</p>\n<p class=\"mb-4\">You can find churches, mosques, and religious communities <a href=\"Link to churches, mosques, and religious communities\">here</a> or <a href=\"Link to churches, mosques, and religious communities\">here</a>.</p>\n",
+  "category": "Living in Germany",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659c000aeb177bd216bebd45"
+  },
+  "id": 11,
+  "title": "House rules",
+  "content": "<p class=\"mb-4\">In a house rule, specific rules of communal living are established. These apply to all individuals living in a shared accommodation or apartment. The key points include:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li><strong>Noise:</strong> All individuals in the house are responsible for avoiding noise as much as possible. Special consideration should be taken between 1:00 PM to 3:00 PM and from 10:00 PM to 6:00 AM, as these are quiet hours. On Sundays and public holidays, it's quiet time throughout the day.</li>\n  <li><strong>Waste disposal:</strong> Waste must be disposed of in the designated bins. Different bins are provided for plastic, paper and cardboard, organic waste (fruit and vegetable leftovers), and other types of waste. Please adhere to waste separation, as a large portion of the waste is recycled, which is an important aspect of environmental protection. You can find information about disposal <u><a href=\"https://www.passau.de/bauen-umwelt/umwelt-klimaschutz/abfall-recycling/\">here</a></u>.</li>\n  <li><strong>Wastewater disposal:</strong> Food leftovers or items should not be disposed of in the toilet, as they provide a food source for rats. The organic waste bin is available for disposing of food remnants. The toilet is not a trash can. Therefore, do not dispose of hygiene items (pads, wet wipes) in the toilet, but use the garbage bin instead.</li>\n  <li><strong>Ventilation:</strong> It's advisable to regularly open the windows to let in fresh air. This helps prevent issues like mold formation.</li>\n</ul>\n",
+  "category": "Housing",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659c0010eb177bd216bebd46"
+  },
+  "id": 15,
+  "title": "Internet",
+  "content": "<h2 class=\"font-bold text-xl mb-4\">Internet / WIFI</h2>\n<p class=\"mb-4\">As an asylum seeker in Germany, unfortunately, you do not have a legal right to internet access (WIFI) in your accommodation. Therefore, WIFI (WLAN) is usually not available in accommodations.</p>\n<p class=\"mb-4\">If there is a telephone connection in the accommodation, it might be possible for you to contract for WIFI yourself. Ask your support group to help you choose a suitable contract. Discuss payment arrangements with the other residents beforehand. Consider whether a contract that you can terminate at any time is better than a long-term contract (for example, 2 years).</p>\n<p class=\"mb-4\"><strong>Important:</strong> Before signing a contract, inquire with your accommodation management if WIFI is technically feasible and how you can provide access to the technician.</p>\n<p class=\"mb-4\">You can find free hotspots for Memmingen and the surrounding area at:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li><u><a href=\"https://www.wlan-bayern.de/#/map/view/\">Bayern WLAN</a></u></li>\n  <li><u><a href=\"Link zu www.europakarte.org\">www.europakarte.org</a></u></li>\n</ul>\n<p class=\"mb-4\">If you move into your own apartment, you can rent an internet connection from telecommunications companies in Germany.</p>\n",
+  "category": "Housing",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659c0017eb177bd216bebd47"
+  },
+  "id": 14,
+  "title": "Broadcasting fee",
+  "content": "<p class=\"mb-4\">In Germany, there are independent radio, television, and online services provided by ARD, ZDF, and Deutschlandradio. They report free from economic and political influences. For this, all people collectively pay a fee known as the broadcasting contribution.</p>\n<p class=\"mb-4\">The law mandates: A broadcasting contribution must be paid for each dwelling in Germany. However, only one person per dwelling needs to pay the broadcasting contribution. It currently costs €18.36 per month and must be paid to the Contribution Service of ARD, ZDF, and Deutschlandradio. More information can be found on the website of the broadcasting contribution:</p>\n<p class=\"mb-4\"><a href=\"https://www.rundfunkbeitrag.de/index_ger.html\">Broadcasting Contribution</a></p>\n<p class=\"mb-4\">Also available in several languages:</p>\n<p class=\"mb-4\"><a href=\"https://www.rundfunkbeitrag.de/welcome/index_ger.html\">Information about the Broadcasting Contribution in Various Languages</a></p>\n<p class=\"mb-4\"><strong>Do I also have to pay?</strong></p>\n<p class=\"mb-4\">Some people may be exempted from payment. For example, if they receive benefits according to the Asylum Seeker Benefits Act or other social benefits. To apply for an <u><a href=\"https://www.rundfunkbeitrag.de/e175/e218/Merkblatt_Befreiung_und_Ermaessigung.pdf\">exemption from the broadcasting contribution</a></u>, an application must be submitted. The following <u><a href=\"https://www.rundfunkbeitrag.de/e175/e5249/Flyer_WillkommeninDeutschland_DE.pdf\">flyer</a></u> (also available in <u><a href=\"https://www.rundfunkbeitrag.de/welcome/englisch/index_ger.html\">English</a></u>, <u><a href=\"https://www.rundfunkbeitrag.de/e175/e5245/Flyer_Bienvenue_en_Allemagne_Franzoesisch.pdf\">French</a>, <a href=\"https://www.rundfunkbeitrag.de/welcome/arabisch/index_ger.html\">Arabic</a></u>, <u><a href=\"https://www.rundfunkbeitrag.de/index_ger.html\">Tigrinya</a>, <a href=\"https://www.rundfunkbeitrag.de/index_ger.html\">Somali</a> and <a href=\"https://www.rundfunkbeitrag.de/index_ger.html\">Farsi</a></u>) illustrates what you need to do.</p>\n",
+  "category": "Housing",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659c001ceb177bd216bebd48"
+  },
+  "id": 12,
+  "title": "Telephone connection",
+  "content": "<h2 class=\"mb-4 font-bold text-xl\">Mobile Phone</h2>\n<p class=\"mb-4\">In Germany, there are two types of mobile phone contracts: prepaid contracts and postpaid contracts. The prepaid contract doesn't have a fixed contract duration. With a postpaid contract, there's a minimum contract duration. This contract automatically renews and often becomes more expensive. If you don't want the contract to renew automatically, you must cancel it in writing. Pay attention to the cancellation period, usually 3 months before the contract expires (NOTE: The date of receipt by the telecommunications company applies).</p>\n<p class=\"mb-4\">Ask your support group for help in choosing and finalizing a good contract.</p>\n<p class=\"mb-4\"><strong>10 important questions for contract conclusion:</strong></p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>What is the basic fee? Does the fee increase after a certain time?</li>\n  <li>Is there a minimum monthly spend (minimum costs per month)?</li>\n  <li>How long does the contract last (e.g., 12 or 24 months)?</li>\n  <li>If I don't cancel the contract, will it automatically renew? When do I need to cancel if I don't want to renew the contract?</li>\n  <li>How much does setup, switching, and deactivation cost?</li>\n  <li>At what billing increment (60/1, 10/10) is the usage calculated?</li>\n  <li>How much does a minute cost (other network / own network)?</li>\n  <li>How much does a phone cost with a contract, and what is the cost of the phone without a contract?</li>\n  <li>How much does internet access cost?</li>\n  <li>What are the costs for international calls?</li>\n</ul>\n",
+  "category": "Housing",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659c0022eb177bd216bebd49"
+  },
+  "id": 16,
+  "title": "Drinking water in Passau",
+  "content": "<p class=\"mb-4\">Passau has an excellent water supply and quality.</p>\n<p class=\"mb-4\">In general, the water from the tap in your apartment can be consumed without any concerns.</p>\n<p class=\"mb-4\">If this is not the case, you should notify your landlord about it.</p>\n<p class=\"mb-4\">Passau Drinking Water <u><a class=\"underline\" href = \"https://energie.stadtwerke-passau.de/wasser.html\"> here</a></u></p>\n",
+  "category": "Housing",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659c0027eb177bd216bebd4a"
+  },
+  "id": 13,
+  "title": "Moving into your own apartment",
+  "content": "<p class=\"mb-4\">Once you have a residence permit, you are generally obligated to move out of the shared accommodation or decentralized housing. You must find your own apartment. As long as you do not have a job and therefore do not earn any money, the job center will pay your rent. However, only if you are in need of assistance.</p>\n<p class=\"mb-4\"><strong>Important:</strong> When you have found an apartment, do not immediately sign the lease. The job center must review and approve the rental agreement before it is concluded. The following points must be included in the lease agreement:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>Basic Rent: The cost of rent for the living space per month</li>\n  <li>Additional Costs: Also operational costs such as staircase cleaning, waste fees, caretaker costs, cable connection, etc.</li>\n  <li>Heating Costs: Costs for heating and hot water (Caution: Electricity and heating costs must always be paid by you!)</li>\n  <li>Size of the apartment, number of rooms, address, landlord or landlady</li>\n</ul>\n<p class=\"mb-4\">The total rent (Warmmiete) comprises the above-mentioned components. It is significantly higher than the basic rent (Kaltmiete).</p>\n<p class=\"mb-4\"><strong>Deposit, Initial Equipment, Replacement, and Registration</strong></p>\n<p class=\"mb-4\">The deposit serves as security for the landlord. The amount for the deposit is a maximum of 3 basic rents. When you move out of the apartment, you will receive the money back.</p>\n<p class=\"mb-4\"><strong>Important:</strong> You must not leave any damage when moving out of the apartment.</p>\n<p class=\"mb-4\">You are not allowed to take the furniture from your asylum accommodation. Therefore, you will need new furniture. You can apply for initial equipment at the job center. The job center will then provide you with a lump sum, which may vary depending on the number of people and the size of the apartment. If your previous tenant leaves various items in the apartment, you can buy these from them (replacement).</p>\n<p class=\"mb-4\"><strong>Caution:</strong> It may take several weeks for the money to be paid out by the job center!</p>\n<p class=\"mb-4\">Please remember to register your new address (in person) with the residents' registration office.</p>\n",
+  "category": "Housing",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659c002ceb177bd216bebd4b"
+  },
+  "id": 10,
+  "title": "Eine Wohnung suchen",
+  "content": "Alle erwachsenen Menschen dürfen selbst über sich und das eigene Leben bestimmen. Egal, ob Mann oder Frau, jung oder alt, mit oder ohne Behinderung, egal welcher Hautfarbe oder Religionszugehörigkeit. ",
+  "category": "Housing",
+  "lastEdited": "13.02.2023"
+},
+{
+  "_id": {
+    "$oid": "659c003aeb177bd216bebd4c"
+  },
+  "id": 18,
+  "title": "Bicycle",
+  "content": "<p class=\"mb-4\">If you know that you will be living in Passau for a while, it's worthwhile to buy a bicycle. It's cheaper than taking the bus.</p>\n<p class=\"mb-4\"><strong>Important traffic rules for cyclists (Selection)</strong></p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>Always ride on the right side of the road.</li>\n  <li>Do not ride side by side, ride in single file.</li>\n  <li>If there is a bike path, you should ride on the bike path (always on the right side of the road in the direction of travel).</li>\n  <li>If you see appropriate traffic signs, you must use the bike path.</li>\n  <li>Only children up to 11 years old are allowed to use sidewalks with bicycles.</li>\n</ul>\n<p class=\"mb-4\"><strong>Purchase and Repairs</strong></p>\n<p class=\"mb-4\">When purchasing, ensure that your bicycle is equipped as follows and is thus roadworthy. Otherwise, you may have to pay a fine if checked by the police:</p>\n<ul class=\"mb-4 list-disc ml-6\">\n  <li>Front and rear lights</li>\n  <li>Front and rear reflectors</li>\n  <li>Reflectors on the spokes (2 per wheel)</li>\n  <li>Reflectors on the pedals</li>\n  <li>Bell</li>\n  <li>Two independent brakes</li>\n</ul>\n<p class=\"mb-4\"><u><a href=\"https://tourismus.passau.de/freizeit-sport/radfahren/\">Link to Passau City Website with the topic riding a bike</a></u></p>\n",
+  "category": "Means of transportation",
+  "lastEdited": "28.01.2024"
+},
+{
+  "_id": {
+    "$oid": "659c003feb177bd216bebd4d"
+  },
+  "id": 17,
+  "title": "Public transportation",
+  "content": "<h2 class=\"font-bold text-xl mb-4\">Bus</h2>\n<p class=\"mb-4\">Within Passau, there is a well-developed bus network. You can find timetables and information <a href=\"https://vbp.stadtwerke-passau.de/busfahrplaene.html\">Here</a>.</p>\n<p class=\"mb-4\"><strong>Important:</strong> Riding without a ticket, known as fare dodging, is punishable! You absolutely need a valid ticket for each journey. Otherwise, you will be fined €60.</p>\n<h2 class=\"font-bold text-xl mb-4\">Train</h2>\n<p class=\"mb-4\">From the Passau train station, you can reach Munich in about 2 hours. You can find timetable information and prices <a href=\"https://bahnauskunft.info/bahnhof/passau-hauptbahnhof/\">Here</a>.</p>\n<p class=\"mb-4\">However, within Passau, most places can be easily reached on foot or by bicycle.</p>\n",
+  "category": "Means of transportation",
+  "lastEdited": "28.01.2024"
+}]

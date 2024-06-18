@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "65b6827f0bc2a2ab6520bc5d"
+  },
+  "author": "sami",
+  "title": "Wo gute Frisör?",
+  "question": "Ich fragen mich wo gute Frisöör? Wo finden in näe vom Passau Grubweg?",
+  "answers": [
+    {
+      "_id": {
+        "$oid": "65b683510bc2a2ab6520bc63"
+      },
+      "answer": "Kopfgeldjäger in der Englmeierstraße 94034 Passau (Grubweg)",
+      "author": "max",
+      "createdAt": {
+        "$date": "2024-01-28T16:39:45.113Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:39:45.113Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-28T16:36:15.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b682bb0bc2a2ab6520bc5e"
+  },
+  "author": "sami",
+  "title": "Party Location gesucht",
+  "question": "Hey, ich suche eine Partylocation für meinen 18. Geburtstag.\n\nInfo:\n\n20 Personen\n\nEssen und Getränke besorge ich selbst\n\nUm Musik kümmere ich mich selbst, vorhandene Anlage wäre gut\n\nBudget wären ca 200€ für die Location selbst ca\n\nDatum ist der 24.02. Diesen Jahres\n\nEs wäre sehr gut, wenn ich schnell Hilfe bekommen würde.",
+  "answers": [
+    {
+      "_id": {
+        "$oid": "65b6836d0bc2a2ab6520bc64"
+      },
+      "answer": "Versuchs vielleicht mal hier: https://veranstaltungen.meinestadt.de/passau/locations/hallen-saele",
+      "author": "max",
+      "createdAt": {
+        "$date": "2024-01-28T16:40:13.069Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:40:13.069Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-28T16:37:15.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b682e00bc2a2ab6520bc5f"
+  },
+  "author": "sami",
+  "title": "Demos gegen rechts",
+  "question": "Ganz Deutschland organisiert Demos gegen die rechtsextremen. Gibts das in Passau auch?",
+  "answers": [
+    {
+      "_id": {
+        "$oid": "65b683880bc2a2ab6520bc65"
+      },
+      "answer": "Soll wohl was geben kommenden Samstag aber genaue Infos findest du irgendwie kaum\nhier is ein Link: https://www.buergerblick.de/nachrichten/passau-anti-afd-demo-am-27-januar-geplant-a-67090.html",
+      "author": "max",
+      "createdAt": {
+        "$date": "2024-01-28T16:40:40.591Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:40:40.591Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-28T16:37:52.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b682f40bc2a2ab6520bc60"
+  },
+  "author": "sami",
+  "title": "Best veterinary practice in Passau?",
+  "question": "Hey everyone, I'm trying to find the best vet in Passau especially for cats. There's one I've been to a few times and things have been fine so far, I just feel like the check ups and visits happen too quick (to the point where I'm not entirely sure whether the doctor is just that good or if they're not being thorough enough) and things get really expensive really quickly. Do y'all have any recommendations?",
+  "answers": [
+    {
+      "_id": {
+        "$oid": "65b683940bc2a2ab6520bc66"
+      },
+      "answer": "Dr. Rentsch in Passau or Dr. Krause (expensive) Also get a insurence for your pet.",
+      "author": "max",
+      "createdAt": {
+        "$date": "2024-01-28T16:40:52.957Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:40:52.957Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-28T16:38:12.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b683180bc2a2ab6520bc61"
+  },
+  "author": "sami",
+  "title": "Looking to Connect with Fellow Students!",
+  "question": "Hey everyone,\n\nExcited to share that I'll be starting my journey in Artificial Intelligence Engineering at Passau University this summer, kicking off in 2024! 🚀 Wondering if there are others out there who'll be joining this program around the same time?\n\nI thought it would be awesome to connect, maybe start a group chat, and share experiences or even plan ahead for the upcoming semester. So, if you're also diving into the world of AI or any other Master program at Passau, feel free to drop a message here or shoot me a DM. Let's build a community and make the most of this academic adventure together!\n\nLooking forward to connecting with you all!\n\nCheers! 🎓🤖",
+  "answers": [
+    {
+      "_id": {
+        "$oid": "65b683a20bc2a2ab6520bc67"
+      },
+      "answer": "Hi there! Congratulations.\n\nI am not a new student; in fact about to graduate the program in a month or two. However, there is a telegram group chat for AIE students, both old and new. If you'd like that, I can DM the invite over.",
+      "author": "max",
+      "createdAt": {
+        "$date": "2024-01-28T16:41:06.734Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:41:06.734Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-28T16:38:48.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b6832a0bc2a2ab6520bc62"
+  },
+  "author": "sami",
+  "title": "Umweltzone ?",
+  "question": "Hallo liebe Leute\n\nIch fahre nach Passau. Gibt’s in der Stadt eine Umweltzone oder nee?\n\nIch brauche es zu wissen, ob ich eine Plakette benötige oder nicht.\n\nDanke schön :)",
+  "answers": [
+    {
+      "_id": {
+        "$oid": "65b683b10bc2a2ab6520bc68"
+      },
+      "answer": "Nein, gibt es nicht. Spass macht Auto fahren im Zentrum aber trotzdem nicht.",
+      "author": "max",
+      "createdAt": {
+        "$date": "2024-01-28T16:41:21.804Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:41:21.804Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "65b683fa0bc2a2ab6520bc6a"
+      },
+      "answer": "parken ist total beschissen in Passau 😅",
+      "author": "muschl",
+      "createdAt": {
+        "$date": "2024-01-28T16:42:34.342Z"
+      },
+      "lastEdited": {
+        "$date": "2024-01-28T16:42:34.342Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-28T16:39:06.039Z"
+  }
+}]
