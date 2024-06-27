@@ -52,7 +52,7 @@ Ensure the following software versions are installed:
 - MongoDBCompass for easier data import
 
 # Installation
-1. Clone the repository: `git clone https://mygit.th-deg.de/mw26365/testing-projekt-mit.git`
+1. Clone the repository
 2. If needed, navigate to the project directory: `cd testing-projekt-mit`
 3. Install dependencies: `npm install`
 4. Create a `.env.local` file in the root directory and add the following content:
