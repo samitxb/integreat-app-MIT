@@ -4,8 +4,6 @@ Taieb, Sami 00803933
 
 integreat-app Passau
 
-<p>https://mygit.th-deg.de/mw26365/testing-projekt-mit<br>
-https://mygit.th-deg.de/mw26365/testing-projekt-mit/-/wikis/home</p>
 
 # Project Description
 Integreat App for the City of Passau (Dailylife)
